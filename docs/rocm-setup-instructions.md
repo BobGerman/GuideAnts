@@ -70,5 +70,10 @@ sudo nvm use 22.11
 
 ## 4. Run install script
 
-Download or clone this repo and run the [start_linux.sh](../start_linux.sh) script.
+Download or clone this repo and run the [start_linux.sh](../start_linux.sh) script. To do this, you'll need to add execute permission on the file.
+
+```sh
+chmod +x ./start_linux.sh
+./start_linux.sh
+```
 
